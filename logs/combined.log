@@ -1,0 +1,16 @@
+[2025-09-29 21:02:25.001] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-29 21:02:25.001] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-29 21:02:25.002] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-29 21:02:52.387] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-29 21:02:55.964] [32minfo[39m: 	[32mGET /api/health - 200 - 5ms[39m
+[2025-09-29 21:03:21.185] [32minfo[39m: 	[32mPOST /api/projects - 201 - 33ms[39m
+[2025-09-29 21:03:30.457] [32minfo[39m: 	[32mGET /api/projects - 200 - 2ms[39m
+[2025-09-29 21:08:28.167] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully[39m
+[2025-09-29 21:08:31.326] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully[39m
+[2025-09-29 21:08:31.429] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-29 21:08:52.401] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully[39m
+[2025-09-29 21:08:52.402] [32minfo[39m: 	[32mProcess terminated[39m
+[2025-09-29 21:09:01.212] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-29 21:09:41.824] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully[39m
+[2025-09-29 21:09:41.825] [32minfo[39m: 	[32mProcess terminated[39m
+[2025-09-29 21:09:41.965] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
