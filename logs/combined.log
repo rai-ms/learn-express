@@ -23,3 +23,5 @@
 [2025-09-30 21:59:55.695] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully...[39m
 [2025-09-30 21:59:55.868] info: 	Server is running in development mode on port 3000
 [2025-09-30 22:35:51.975] info: 	Server is running in development mode on port 3000
+[2025-09-30 23:09:47.614] info: 	SIGTERM received. Shutting down gracefully...
+[2025-09-30 23:09:47.768] info: 	Server is running in development mode on port 3000

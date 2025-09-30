@@ -11,12 +11,9 @@
     "prisma:generate": "npx prisma generate",
     "prisma:migrate:dev": "npx prisma migrate dev --name init",
     "prisma:studio": "npx prisma studio",
+    "prisma:seed": "ts-node prisma/seed.ts",
     "postinstall": "npx prisma generate",
-    "render-build": "npm ci && npx prisma generate --schema=./prisma/schema.prisma && npx prisma migrate deploy && tsc --skipLibCheck --noEmit && npm run build"
-  },
-  "prisma": {
-    "seed": "ts-node prisma/seed.ts",
-    "schema": "prisma/schema.prisma"
+    "render-build": "npm ci && npx prisma generate --schema=./prisma/schema.prisma && npx prisma migrate deploy && npm run build"
   },
   "engines": {
     "node": ">=14.0.0"
@@ -26,12 +23,13 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@prisma/client": "^6.16.3",
     "cors": "^2.8.5",
     "dotenv": "^17.2.2",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "winston": "^3.15.0"
   },
   "devDependencies": {
-    "@prisma/client": "^6.16.3",
     "@prisma/internals": "^6.16.3",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.3",
