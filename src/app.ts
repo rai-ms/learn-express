@@ -1,11 +1,11 @@
 import express, { Application, Request, Response, NextFunction } from 'express';
-import { PrismaClient } from '@prisma/client';
+
 import cors from 'cors';
 import config from './config';
 import { logger } from './utils/logger';
+import prisma from './utils/prisma';
 
 const app: Application = express();
-const prisma = new PrismaClient();
 
 // Logging middleware
 app.use((req: Request, res: Response, next: NextFunction) => {

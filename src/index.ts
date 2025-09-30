@@ -1,9 +1,7 @@
 import app from './app';
 import config from './config';
 import { logger } from './utils/logger';
-import { PrismaClient } from '@prisma/client';
-
-const prisma = new PrismaClient();
+import prisma from './utils/prisma';
 
 const server = app.listen(config.port, () => {
   logger.info(`Server is running in ${config.env} mode on port ${config.port}`);

@@ -14,3 +14,11 @@
 [2025-09-29 21:09:41.824] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully[39m
 [2025-09-29 21:09:41.825] [32minfo[39m: 	[32mProcess terminated[39m
 [2025-09-29 21:09:41.965] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-30 21:59:07.617] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully...[39m
+[2025-09-30 21:59:11.689] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-30 21:59:32.538] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully...[39m
+[2025-09-30 21:59:34.502] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-30 21:59:35.667] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully...[39m
+[2025-09-30 21:59:35.762] [32minfo[39m: 	[32mServer is running in development mode on port 3000[39m
+[2025-09-30 21:59:55.695] [32minfo[39m: 	[32mSIGTERM received. Shutting down gracefully...[39m
+[2025-09-30 21:59:55.868] info: 	Server is running in development mode on port 3000
